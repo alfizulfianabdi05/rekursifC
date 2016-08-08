@@ -13,3 +13,4 @@ main()
 	printf("Hasil perkaliannya adalah %d", hasil(x,y));
 
 	getch();
+	}
