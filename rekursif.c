@@ -17,3 +17,4 @@ main()
 
 	int hasil(int a, int b)
 	{
+		int i, kali=0;
