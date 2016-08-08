@@ -21,3 +21,4 @@ main()
 		for(i=1; i<=a; i++)
 			kali+=b;
 		return kali;
+		}
