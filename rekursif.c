@@ -6,3 +6,4 @@ main()
 {
 
 	int x,y;
+	printf("Bilangan pertama: ");
