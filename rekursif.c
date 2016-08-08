@@ -9,3 +9,4 @@ main()
 	printf("Bilangan pertama: ");
 	scanf("%d", &x);
 	printf("Bilangan kedua: ");
+	scanf("%d", &y);
