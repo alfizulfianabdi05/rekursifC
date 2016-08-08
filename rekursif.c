@@ -4,3 +4,5 @@
 int hasil(int a, int b); 
 main()
 {
+
+	int x,y;
