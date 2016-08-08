@@ -22,3 +22,4 @@ main()
 			kali+=b;
 		return kali;
 		}
+
