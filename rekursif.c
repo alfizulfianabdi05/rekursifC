@@ -10,3 +10,4 @@ main()
 	scanf("%d", &x);
 	printf("Bilangan kedua: ");
 	scanf("%d", &y);
+	printf("Hasil perkaliannya adalah %d", hasil(x,y));
