@@ -7,3 +7,4 @@ main()
 
 	int x,y;
 	printf("Bilangan pertama: ");
+	scanf("%d", &x);
