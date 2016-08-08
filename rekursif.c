@@ -18,3 +18,4 @@ main()
 	int hasil(int a, int b)
 	{
 		int i, kali=0;
+		for(i=1; i<=a; i++)
