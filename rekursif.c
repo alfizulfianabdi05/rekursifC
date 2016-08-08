@@ -14,3 +14,5 @@ main()
 
 	getch();
 	}
+
+	int hasil(int a, int b)
